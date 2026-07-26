@@ -47,6 +47,8 @@ The original dataset stores one row for each person involved in a collision. To 
 
 - <b>Person:</b> Stores person-level information (road user, age, injury severity, vehicle type, driver behaviour, safety equipment, etc.)
 
+![Schema](images/schema.png)
+
 ## 6. Power BI Dashboard
 The dashboard explores multiple aspects of KSI collisions, including: overall collisison statistics, trends over time, geographic hotspots, injury severity, road user distribution, driver behaviour and contributing factors, road conditions
 
@@ -64,10 +66,10 @@ The dashboard explores multiple aspects of KSI collisions, including: overall co
 - The total number of KSI collisions has generally decreased over time. However, the number of fatal injuries has remained relatively stable with small fluctuations, suggesting that while collisions are becoming less frequent, their severity has not declined at the same rate
 
 <b>Injury Severity:</b>
-The majority of recorded injuries were classified as Major injuries, while fatal injuries represented a smaller but significant proportion.
+- The majority of recorded injuries were classified as Major injuries, while fatal injuries represented a smaller but significant proportion.
 
 <b>Road User Distribution</b>
-Drivers accounted for the largest share of people involved in KSI collisions, followed by pedestrians and passengers. Cyclists, vehicle owners, and other road user categories represented a comparatively small proportion of the total involved people
+- Drivers accounted for the largest share of people involved in KSI collisions, followed by pedestrians and passengers. Cyclists, vehicle owners, and other road user categories represented a comparatively small proportion of the total involved people
 
 <b>Geographic Distribution:</b>
-The heatmap showed a higher concetration of KSI collisions in downtown Toronto, indicating that this region experiences a greater number of severe collisions than other parts of the city
+- The heatmap showed a higher concetration of KSI collisions in downtown Toronto, indicating that this region experiences a greater number of severe collisions than other parts of the city
